@@ -1,0 +1,50 @@
+<Solution>
+  <PropertyGroup Name="turnright" Version="2.0.5.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="startscene.csd" />
+        <Folder Name="ui">
+          <PlistImageFolder PListFile="2dui_dlcj.plist" LastPlistWriteTime="2014-10-15T10:30:13.1732987+08:00" LastImageWriteTime="2014-10-15T10:30:13.0795436+08:00" Name=".2dui_dlcj_PList.Dir">
+            <PlistImageFile Name="2dui_chuangjian_chooosename.png" Key="2dui_chuangjian_chooosename.png" />
+            <PlistImageFile Name="2dui_denglu_anniunormal.png" Key="2dui_denglu_anniunormal.png" />
+            <PlistImageFile Name="2dui_denglu_anniupushed.png" Key="2dui_denglu_anniupushed.png" />
+            <PlistImageFile Name="2dui_denglu_biaoti.png" Key="2dui_denglu_biaoti.png" />
+            <PlistImageFile Name="2dui_denglu_denglunormal.png" Key="2dui_denglu_denglunormal.png" />
+            <PlistImageFile Name="2dui_denglu_denglupushed.png" Key="2dui_denglu_denglupushed.png" />
+            <PlistImageFile Name="2dui_denglu_di.png" Key="2dui_denglu_di.png" />
+            <PlistImageFile Name="2dui_denglu_duihao.png" Key="2dui_denglu_duihao.png" />
+            <PlistImageFile Name="2dui_denglu_gonggao.png" Key="2dui_denglu_gonggao.png" />
+            <PlistImageFile Name="2dui_denglu_logo.png" Key="2dui_denglu_logo.png" />
+            <PlistImageFile Name="2dui_denglu_normal.png" Key="2dui_denglu_normal.png" />
+            <PlistImageFile Name="2dui_denglu_pushedl.png" Key="2dui_denglu_pushedl.png" />
+            <PlistImageFile Name="2dui_denglu_shurubj.png" Key="2dui_denglu_shurubj.png" />
+            <PlistImageFile Name="2dui_denglu_tiao.png" Key="2dui_denglu_tiao.png" />
+            <PlistImageFile Name="2dui_denglu_tiaopushed.png" Key="2dui_denglu_tiaopushed.png" />
+            <PlistImageFile Name="2dui_denglu_wjmm.png" Key="2dui_denglu_wjmm.png" />
+            <PlistImageFile Name="2dui_dlcj_guanbinormal.png" Key="2dui_dlcj_guanbinormal.png" />
+            <PlistImageFile Name="2dui_dlcj_guanbipushed.png" Key="2dui_dlcj_guanbipushed.png" />
+            <PlistImageFile Name="2dui_dlcj_huagui.png" Key="2dui_dlcj_huagui.png" />
+            <PlistImageFile Name="2dui_dlcj_huakuai.png" Key="2dui_dlcj_huakuai.png" />
+            <PlistImageFile Name="2dui_dlcj_jiantou.png" Key="2dui_dlcj_jiantou.png" />
+            <PlistImageFile Name="2dui_fuwuqi_bao.png" Key="2dui_fuwuqi_bao.png" />
+            <PlistImageFile Name="2dui_fuwuqi_chang.png" Key="2dui_fuwuqi_chang.png" />
+            <PlistImageFile Name="2dui_fuwuqi_di.png" Key="2dui_fuwuqi_di.png" />
+            <PlistImageFile Name="2dui_fuwuqi_di1.png" Key="2dui_fuwuqi_di1.png" />
+            <PlistImageFile Name="2dui_fuwuqi_huawen1.png" Key="2dui_fuwuqi_huawen1.png" />
+            <PlistImageFile Name="2dui_fuwuqi_huawen2.png" Key="2dui_fuwuqi_huawen2.png" />
+            <PlistImageFile Name="2dui_fuwuqi_liebiaodi.png" Key="2dui_fuwuqi_liebiaodi.png" />
+            <PlistImageFile Name="2dui_fuwuqi_tuijian.png" Key="2dui_fuwuqi_tuijian.png" />
+            <PlistImageFile Name="2dui_fuwuqi_xin.png" Key="2dui_fuwuqi_xin.png" />
+            <PlistImageFile Name="2dui_fuwuqi_yxfuwuqi.png" Key="2dui_fuwuqi_yxfuwuqi.png" />
+          </PlistImageFolder>
+          <Fnt Name="wenzi.fnt" />
+          <Image Name="2dui_zdcj10.png" />
+          <Image Name="maptest1.png" />
+          <TmxFile Name="maptest.tmx" />
+        </Folder>
+        <Project Name="gamescene.csd" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
